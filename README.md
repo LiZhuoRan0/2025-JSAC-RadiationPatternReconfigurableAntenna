@@ -5,7 +5,7 @@ Simulation codes for our paper, titled *Radiation Pattern Reconfigurable FAS-Emp
 <figure>
     <img src="./Scene.jpg" alt="场景描述">
     <figcaption>Radiation pattern reconfigurable antenna and its application in enhancing interference-resilient UAV communications across various scenarios:
-	(a) RPR-FAS with reconfigurable pixel antennas;
+	(a) radiation pattern reconfigurable-fluid antenna system with reconfigurable pixel antennas;
 	(b) networked UAVs jammed by illegal jammer;
 	(c) remotely piloted UAVs interfered by unintentional interference;
 	(d) remotely piloted UAVs jammed by illegal jammer.
