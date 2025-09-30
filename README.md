@@ -1,4 +1,7 @@
 # 2025-JSAC-RadiationPatternReconfigurableAntenna
+
+Simulation codes for our paper, titled *Radiation Pattern Reconfigurable FAS-Empowered Interference-Resilient UAV Communication*, which has been accepted by **IEEE JSAC** and will be available on [arXiv](https://arxiv.org/) and [IEEE](https://ieeexplore.ieee.org/Xplore/home.jsp) soon.
+
 <figure>
     <img src="./Scene.jpg" alt="场景描述">
     <figcaption>Radiation pattern reconfigurable antenna and its application in enhancing interference-resilient UAV communications across various scenarios:
@@ -9,7 +12,6 @@
     </figcaption>
 </figure>
 
-Simulation codes for our paper, titled *Radiation Pattern Reconfigurable FAS-Empowered Interference-Resilient UAV Communication*, which has been accepted by **IEEE JSAC** and will be available on [arXiv](https://arxiv.org/) and [IEEE](https://ieeexplore.ieee.org/Xplore/home.jsp) soon.
 
 ## Abstract
 The widespread use of uncrewed aerial vehicles (UAVs) has propelled the development of advanced techniques on countering unauthorized UAV flights. 
