@@ -1,6 +1,6 @@
 # 2025-JSAC-RadiationPatternReconfigurableAntenna
 
-Simulation codes for our paper, titled *Radiation Pattern Reconfigurable FAS-Empowered Interference-Resilient UAV Communication*, which has been accepted by **IEEE JSAC** and will be available on [arXiv]([https://arxiv.org/](https://arxiv.org/abs/2510.00581)) and [IEEE](https://ieeexplore.ieee.org/Xplore/home.jsp) soon.
+Simulation codes for our paper, titled *Radiation Pattern Reconfigurable FAS-Empowered Interference-Resilient UAV Communication*, which has been accepted by **IEEE JSAC** and is available on [arXiv](https://arxiv.org/abs/2510.00581).
 
 <figure>
     <img src="./Scene.jpg" alt="场景描述">
