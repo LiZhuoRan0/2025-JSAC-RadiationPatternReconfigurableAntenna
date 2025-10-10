@@ -9,7 +9,7 @@ Simulation codes for our paper, titled *Radiation Pattern Reconfigurable FAS-Emp
 	(b) networked UAVs jammed by illegal jammer;
 	(c) remotely piloted UAVs interfered by unintentional interference;
 	(d) remotely piloted UAVs jammed by illegal jammer;
-	(e) reconfigurable fullydigital array; 
+	(e) reconfigurable fully digital array; 
 	(f) reconfigurable hybrid array.
     </figcaption>
 </figure>
