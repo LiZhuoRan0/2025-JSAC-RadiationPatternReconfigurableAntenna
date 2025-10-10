@@ -8,7 +8,9 @@ Simulation codes for our paper, titled *Radiation Pattern Reconfigurable FAS-Emp
 	(a) radiation pattern reconfigurable-fluid antenna system with reconfigurable pixel antennas;
 	(b) networked UAVs jammed by illegal jammer;
 	(c) remotely piloted UAVs interfered by unintentional interference;
-	(d) remotely piloted UAVs jammed by illegal jammer.
+	(d) remotely piloted UAVs jammed by illegal jammer;
+	(e) reconfigurablefullydigitalarray; 
+	(f) reconfigurablehybridarray.
     </figcaption>
 </figure>
 
